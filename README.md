@@ -7,9 +7,14 @@ bulanan menjadi satu tabel yang bersih, lengkap dengan KPI, analisis produk, dan
 > [`scripts/generate-demo-data.py`](scripts/generate-demo-data.py). Format kolomnya meniru export marketplace, sehingga
 > seluruh jalur impor bisa diperagakan tanpa membuka data perusahaan mana pun.
 
-**Demo langsung:** `https://<username>.github.io/<nama-repositori>/` (aktifkan GitHub Pages dari folder `/docs`, langkahnya di bawah).
+**Demo langsung:** [annisaashif.github.io/Performa-Sales-Dashboard](https://annisaashif.github.io/Performa-Sales-Dashboard/) (data fiktif; bisa dicoba tanpa memasang apa pun).
 
 ![Ringkasan](docs/screenshots/01-ringkasan.png)
+
+## Panduan
+
+- **Cara memakai dashboard** (impor file, filter, membaca tiap halaman, memakai forecast): [`docs/PANDUAN-PENGGUNAAN.md`](docs/PANDUAN-PENGGUNAAN.md)
+- **Cara memasang di komputer sendiri** (XAMPP atau Laragon, MySQL): [`docs/PANDUAN-SETUP.md`](docs/PANDUAN-SETUP.md)
 
 ## Masalah yang diselesaikan
 
@@ -85,7 +90,7 @@ Halaman **Data** memeriksa setiap impor dan menampilkan hasilnya, bukan menyembu
 
 ## Menjalankan
 
-**Demo tanpa server.** Buka `docs/index.html` lewat server statis (`npx serve docs`), atau aktifkan GitHub Pages:
+**Demo tanpa server.** Buka alamat demo di atas, atau jalankan sendiri: buka `docs/index.html` lewat server statis (`npx serve docs`). Untuk menayangkan salinan sendiri lewat GitHub Pages:
 *Settings → Pages → Source: Deploy from a branch → Branch: `main`, folder `/docs`*.
 
 **Versi lokal dengan MySQL.** Ikuti [`docs/PANDUAN-SETUP.md`](docs/PANDUAN-SETUP.md) (XAMPP atau Laragon). Setelah itu impor file
@@ -109,7 +114,7 @@ src/ui/       halaman dan grafik
 api/          backend PHP (impor, ekspor JSON, daftar file)
 database/     skema MySQL
 demo-data/    35 file contoh fiktif dalam format export marketplace
-docs/         demo statis (GitHub Pages), panduan setup, screenshot
+docs/         demo statis (GitHub Pages), panduan penggunaan dan setup, screenshot
 scripts/      build, pembuat data demo, uji forecast, verifikasi perbaikan file
 ```
 
