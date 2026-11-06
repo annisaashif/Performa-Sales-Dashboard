@@ -1,0 +1,4 @@
+node_modules/
+private/
+*.sqlite
+.DS_Store

@@ -1,0 +1,8 @@
+# API hanya boleh dibuka dari komputer ini (localhost).
+<IfModule mod_authz_core.c>
+    Require local
+</IfModule>
+# Kompres JSON agar daftar pesanan yang besar cepat dimuat.
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE application/json
+</IfModule>

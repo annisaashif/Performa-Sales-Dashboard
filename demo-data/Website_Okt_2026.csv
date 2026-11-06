@@ -1,0 +1,87 @@
+Status Order,Nomor Order,Tanggal Order,Nama Produk,Kode Varian,Variasi,Harga Produk,Jumlah,Nilai Diskon Produk
+Dibatalkan,INV/2026/10/00001,2026-10-25 18:34:00,DEMO - Laras Wide Pants,LW44-M,"Navy, S",239000,1,0
+Terkirim,INV/2026/10/00002,2026-10-15 15:59:00,DEMO - Salma Oversize Shirt,SO55-M,"Cream, XL",229000,1,0
+Selesai,INV/2026/10/00003,2026-10-03 08:12:00,DEMO - Bening Pleated Pants,BP90-L,"Black, S",249000,1,25000
+Selesai,INV/2026/10/00004,2026-10-16 13:24:00,DEMO - Dewi Wrap Dress,DW40-L,"Black, L",329000,1,35000
+Terkirim,INV/2026/10/00005,2026-10-16 20:11:00,DEMO - Tara Pleated Skirt,TP74-XL,"Dusty Pink, S",219000,1,1000
+Selesai,INV/2026/10/00006,2026-10-05 18:55:00,DEMO - Tara Pleated Skirt,TP74-S,"Cream, XL",219000,1,0
+Selesai,INV/2026/10/00006,2026-10-05 18:55:00,DEMO - Nirmala Midi Dress,NM62-L,"Black, M",349000,1,0
+Belum Dibayar,INV/2026/10/00007,2026-10-28 21:20:00,DEMO - Tara Pleated Skirt,TP74-XL,"Cream, M",219000,1,0
+Selesai,INV/2026/10/00008,2026-10-09 19:48:00,DEMO - Anindya Ribbed Knit Top,AR41-L,"Black, S",169000,1,0
+Selesai,INV/2026/10/00008,2026-10-09 19:48:00,DEMO - Salma Oversize Shirt,SO55-M,"Black, L",229000,1,0
+Terkirim,INV/2026/10/00009,2026-10-16 17:57:00,DEMO - Laras Wide Pants,LW44-M,"Dusty Pink, S",239000,1,0
+Selesai,INV/2026/10/00010,2026-10-07 13:23:00,DEMO - Mirela Linen Blouse,ML86-L,"Cream, M",219000,1,0
+Selesai,INV/2026/10/00011,2026-10-07 12:22:00,DEMO - Kinar Knit Cardigan,KK64-S,"Sage, L",289000,1,0
+Dikirim,INV/2026/10/00012,2026-10-24 09:20:00,DEMO - Tara Pleated Skirt,TP74-S,"Black, S",219000,1,1000
+Dikirim,INV/2026/10/00013,2026-10-22 08:36:00,DEMO - Laras Wide Pants,LW44-XL,"Cream, L",239000,1,0
+Lunas,INV/2026/10/00014,2026-10-28 13:36:00,DEMO - Kinar Knit Cardigan,KK64-XL,"Cream, L",289000,1,0
+Dikirim,INV/2026/10/00015,2026-10-08 22:40:00,DEMO - Embun Slip Dress,ES58-XL,"Navy, S",279000,1,0
+Dikirim,INV/2026/10/00016,2026-10-19 08:10:00,DEMO - Mirela Linen Blouse,ML86-S,"Black, L",219000,2,27000
+Dikirim,INV/2026/10/00016,2026-10-19 08:10:00,DEMO - Dewi Wrap Dress,DW40-M,"Dusty Pink, L",329000,1,0
+Dikirim,INV/2026/10/00017,2026-10-18 19:51:00,DEMO - Nirmala Midi Dress,NM62-L,"Navy, S",349000,1,0
+Dikirim,INV/2026/10/00018,2026-10-18 12:40:00,DEMO - Tara Pleated Skirt,TP74-XL,"Navy, L",219000,2,0
+Dikirim,INV/2026/10/00019,2026-10-13 12:34:00,DEMO - Kinar Knit Cardigan,KK64-L,"Sage, S",289000,1,0
+Selesai,INV/2026/10/00020,2026-10-10 19:20:00,DEMO - Laras Wide Pants,LW44-S,"Sage, L",239000,1,1000
+Belum Dibayar,INV/2026/10/00021,2026-10-27 18:10:00,DEMO - Mirela Linen Blouse,ML86-L,"Black, XL",219000,1,29000
+Terkirim,INV/2026/10/00022,2026-10-18 22:39:00,DEMO - Dewi Wrap Dress,DW40-S,"Dusty Pink, XL",329000,1,18000
+Dikirim,INV/2026/10/00023,2026-10-24 05:41:00,DEMO - Cahya Cropped Outer,CC94-S,"Dusty Pink, M",299000,1,0
+Selesai,INV/2026/10/00024,2026-10-17 11:35:00,DEMO - Kinar Knit Cardigan,KK64-M,"Dusty Pink, M",289000,1,20000
+Terkirim,INV/2026/10/00025,2026-10-17 21:13:00,DEMO - Dewi Wrap Dress,DW40-L,"Sage, S",329000,1,19000
+Terkirim,INV/2026/10/00026,2026-10-12 16:39:00,DEMO - Dewi Wrap Dress,DW40-S,"Black, XL",329000,1,0
+Dikirim,INV/2026/10/00027,2026-10-20 10:46:00,DEMO - Mirela Linen Blouse,ML86-XL,"Cream, M",219000,2,0
+Dikirim,INV/2026/10/00027,2026-10-20 10:46:00,DEMO - Anindya Ribbed Knit Top,AR41-S,"Black, XL",169000,1,0
+Terkirim,INV/2026/10/00028,2026-10-11 11:32:00,DEMO - Kinar Knit Cardigan,KK64-S,"Navy, M",289000,2,0
+Dikirim,INV/2026/10/00029,2026-10-11 13:18:00,DEMO - Larasati Signature Set,LS67-XL,"Black, M",399000,2,106000
+Dikirim,INV/2026/10/00030,2026-10-24 15:22:00,DEMO - Larasati Signature Set,LS67-S,"Dusty Pink, L",399000,1,36000
+Dikirim,INV/2026/10/00030,2026-10-24 15:22:00,DEMO - Nirmala Midi Dress,NM62-S,"Black, S",349000,1,0
+Lunas,INV/2026/10/00031,2026-10-24 11:14:00,DEMO - Ravena Satin Blouse,RS98-L,"Navy, M",249000,1,0
+Dibatalkan,INV/2026/10/00032,2026-10-14 15:57:00,DEMO - Mirela Linen Blouse,ML86-M,"Sage, M",219000,1,0
+Selesai,INV/2026/10/00033,2026-10-13 10:07:00,DEMO - Anindya Ribbed Knit Top,AR41-M,"Navy, XL",169000,3,51000
+Dikirim,INV/2026/10/00034,2026-10-22 09:48:00,DEMO - Nirmala Midi Dress,NM62-L,"Cream, M",349000,2,0
+Terkirim,INV/2026/10/00035,2026-10-15 10:27:00,DEMO - Kirana Tunic Shirt,KT89-XL,"Cream, L",209000,1,0
+Selesai,INV/2026/10/00036,2026-10-11 20:46:00,DEMO - Nirmala Midi Dress,NM62-S,"Dusty Pink, S",349000,1,0
+Selesai,INV/2026/10/00037,2026-10-16 20:04:00,DEMO - Kinar Knit Cardigan,KK64-L,"Cream, M",289000,1,0
+Selesai,INV/2026/10/00038,2026-10-01 18:15:00,DEMO - Tara Pleated Skirt,TP74-L,"Black, L",219000,2,22000
+Selesai,INV/2026/10/00039,2026-10-10 12:46:00,DEMO - Dewi Wrap Dress,DW40-S,"Dusty Pink, L",329000,2,0
+Dikirim,INV/2026/10/00040,2026-10-17 14:50:00,DEMO - Kinar Knit Cardigan,KK64-XL,"Black, S",289000,1,31000
+Terkirim,INV/2026/10/00041,2026-10-11 21:55:00,DEMO - Bening Pleated Pants,BP90-S,"Dusty Pink, S",249000,3,0
+Selesai,INV/2026/10/00042,2026-10-05 16:26:00,DEMO - Larasati Signature Set,LS67-M,"Navy, L",399000,1,30000
+Dikirim,INV/2026/10/00043,2026-10-27 20:52:00,DEMO - Nirmala Midi Dress,NM62-S,"Black, XL",349000,1,0
+Dikirim,INV/2026/10/00044,2026-10-23 22:30:00,DEMO - Dewi Wrap Dress,DW40-L,"Sage, S",329000,1,12000
+Dikirim,INV/2026/10/00044,2026-10-23 22:30:00,DEMO - Kinar Knit Cardigan,KK64-L,"Navy, S",289000,2,0
+Terkirim,INV/2026/10/00045,2026-10-13 21:24:00,DEMO - Mirela Linen Blouse,ML86-M,"Sage, XL",219000,1,13000
+Terkirim,INV/2026/10/00045,2026-10-13 21:24:00,DEMO - Dewi Wrap Dress,DW40-M,"Sage, S",329000,1,0
+Selesai,INV/2026/10/00046,2026-10-16 21:39:00,DEMO - Larasati Signature Set,LS67-M,"Navy, L",399000,1,0
+Selesai,INV/2026/10/00047,2026-10-04 21:15:00,DEMO - Kinar Knit Cardigan,KK64-S,"Black, M",289000,1,0
+Lunas,INV/2026/10/00048,2026-10-27 15:06:00,DEMO - Kinar Knit Cardigan,KK64-L,"Black, S",289000,1,0
+Lunas,INV/2026/10/00048,2026-10-27 15:06:00,DEMO - Dewi Wrap Dress,DW40-S,"Navy, M",329000,3,0
+Dikirim,INV/2026/10/00049,2026-10-08 16:09:00,DEMO - Anindya Ribbed Knit Top,AR41-S,"Black, L",169000,1,0
+Dikirim,INV/2026/10/00049,2026-10-08 16:09:00,DEMO - Tamsin Basic Tee,TB22-S,"Black, S",129000,1,0
+Belum Dibayar,INV/2026/10/00050,2026-10-25 18:37:00,DEMO - Tara Pleated Skirt,TP74-XL,"Sage, XL",219000,1,0
+Terkirim,INV/2026/10/00051,2026-10-09 22:10:00,DEMO - Ayuna Knit Vest,AK58-XL,"Cream, M",199000,1,4000
+Lunas,INV/2026/10/00052,2026-10-26 10:49:00,DEMO - Dewi Wrap Dress,DW40-S,"Black, L",329000,3,0
+Terkirim,INV/2026/10/00053,2026-10-24 05:06:00,DEMO - Cahya Cropped Outer,CC94-M,"Sage, L",299000,1,7000
+Selesai,INV/2026/10/00054,2026-10-18 18:49:00,DEMO - Dewi Wrap Dress,DW40-XL,"Navy, M",329000,1,0
+Selesai,INV/2026/10/00055,2026-10-14 15:38:00,DEMO - Kinar Knit Cardigan,KK64-M,"Navy, XL",289000,1,0
+Selesai,INV/2026/10/00056,2026-10-04 20:14:00,DEMO - Bening Pleated Pants,BP90-M,"Cream, M",249000,1,0
+Terkirim,INV/2026/10/00057,2026-10-11 12:36:00,DEMO - Mirela Linen Blouse,ML86-S,"Black, M",219000,1,0
+Dikirim,INV/2026/10/00058,2026-10-18 10:30:00,DEMO - Anindya Ribbed Knit Top,AR41-S,"Black, S",169000,1,0
+Selesai,INV/2026/10/00059,2026-10-16 12:50:00,DEMO - Larasati Signature Set,LS67-L,"Dusty Pink, M",399000,2,19000
+Selesai,INV/2026/10/00059,2026-10-16 12:50:00,DEMO - Tara Pleated Skirt,TP74-M,"Black, XL",219000,2,0
+Selesai,INV/2026/10/00060,2026-10-12 20:32:00,DEMO - Kirana Tunic Shirt,KT89-XL,"Dusty Pink, L",209000,2,0
+Terkirim,INV/2026/10/00061,2026-10-15 12:00:00,DEMO - Kinar Knit Cardigan,KK64-S,"Navy, M",289000,1,0
+Terkirim,INV/2026/10/00061,2026-10-15 12:00:00,DEMO - Anindya Ribbed Knit Top,AR41-M,"Sage, XL",169000,1,0
+Dikirim,INV/2026/10/00062,2026-10-23 17:54:00,DEMO - Kinar Knit Cardigan,KK64-L,"Black, S",289000,1,0
+Dibatalkan,INV/2026/10/00063,2026-10-02 15:26:00,DEMO - Kinar Knit Cardigan,KK64-M,"Dusty Pink, L",289000,1,0
+Terkirim,INV/2026/10/00064,2026-10-23 09:22:00,DEMO - Nirmala Midi Dress,NM62-M,"Sage, XL",349000,1,0
+Selesai,INV/2026/10/00065,2026-10-03 10:26:00,DEMO - Kinar Knit Cardigan,KK64-XL,"Sage, L",289000,2,30000
+Selesai,INV/2026/10/00065,2026-10-03 10:26:00,DEMO - Ravena Satin Blouse,RS98-S,"Sage, S",249000,1,0
+Dikirim,INV/2026/10/00066,2026-10-11 11:57:00,DEMO - Anindya Ribbed Knit Top,AR41-M,"Dusty Pink, S",169000,1,14000
+Dikirim,INV/2026/10/00066,2026-10-11 11:57:00,DEMO - Tamsin Basic Tee,TB22-XL,"Sage, L",129000,1,0
+Dibatalkan,INV/2026/10/00067,2026-10-19 20:16:00,DEMO - Kinar Knit Cardigan,KK64-XL,"Cream, S",289000,2,0
+Dibatalkan,INV/2026/10/00067,2026-10-19 20:16:00,DEMO - Tara Pleated Skirt,TP74-S,"Sage, M",219000,1,0
+Selesai,INV/2026/10/00068,2026-10-12 13:18:00,DEMO - Kinar Knit Cardigan,KK64-XL,"Black, L",289000,2,0
+Dikirim,INV/2026/10/00069,2026-10-26 19:35:00,DEMO - Larasati Signature Set,LS67-L,"Cream, L",399000,1,0
+Dikirim,INV/2026/10/00070,2026-10-26 11:56:00,DEMO - Nirmala Midi Dress,NM62-M,"Cream, XL",349000,2,0
+Selesai,INV/2026/10/00071,2026-10-18 21:56:00,DEMO - Mirela Linen Blouse,ML86-L,"Sage, L",219000,1,35000
+Selesai,INV/2026/10/00071,2026-10-18 21:56:00,DEMO - Larasati Signature Set,LS67-M,"Dusty Pink, L",399000,1,0
